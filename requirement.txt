@@ -1,0 +1,13 @@
+kagglehub
+pandas
+numpy
+seaborn
+nltk
+matplotlib
+scikit-learn
+scipy
+xgboost
+torch
+keras
+torchvision
+torchaudio
